@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/OleksandrFlux/FluxSecretLab-Updates/releases/latest/download/FluxSecretLab.exe",
+  "changelog": [
+    "Первый релиз лаунчера",
+    "Добавлены вкладки с играми и моды",
+    "Интегрирована система лицензий и HWID"
+  ]
+}
