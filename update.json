@@ -1,9 +1,14 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "DownloadUrl": "https://github.com/OleksandrFlux/FluxSecretLab-Updates/releases/latest/download/FluxLauncher.exe",
-  "Changelog": [
-    "Первый релиз лаунчера",
-    "Добавлены вкладки с играми и моды",
-    "Интегрирована система лицензий и HWID"
-  ]
+  "Changelog": {
+    "en": [
+      "Full release!",
+      "Fixed minor bugs."
+    ],
+    "ru": [
+      "Полный релиз!",
+      "Исправлены мелкие ошибки."
+    ]
+  }
 }
